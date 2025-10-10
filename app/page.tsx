@@ -32,7 +32,7 @@ export default function Home() {
     },
     {
       title: "Gemini-clone",
-      description: "Gemini clone created with the help of gemini api",
+      description: "An AI-powered chatbot application that replicates Gemini’s conversational features using Google’s Gemini API.",
       image: "/gemini.png",
       tech: ["Next.js", "Tailwind", "Gemini-api"],
       github: "https://github.com/gokul123o/Gemini-ai",
@@ -43,8 +43,8 @@ export default function Home() {
       description: "Sample ui design using spline",
       image: "/mcode.png",
       tech: ["Next.js", "Tailwind", "spline"],
-      github: "https://github.com/gokul123o/Gemini-ai",
-      demo: "https://gemini-ai-livid-xi.vercel.app/",
+      github: "https://github.com/gokul123o/Mcode-ui",
+      demo: "https://web-css-html.vercel.app/",
     },
   ];
 
