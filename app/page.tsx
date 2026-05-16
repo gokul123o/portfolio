@@ -19,7 +19,7 @@ export default function Home() {
       image: "/main.png",
       tech: ["Next.js", "Tailwind", "Framer Motion"],
       github: "https://github.com/gokul123o",
-      demo: "https://yourportfolio.com",
+      demo: "https://portfolio-rho-eight-43.vercel.app/",
     },
     {
       title: "Air-near",
